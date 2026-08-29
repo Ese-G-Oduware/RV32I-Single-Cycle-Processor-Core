@@ -18,7 +18,7 @@ Moreover, there is 100% accuracy across simulated testbenches. It correctly deco
 
 **How to run Simulation**
 1. Clone this repo and open your terminal.
-2. Launch your Verilog simulator (Vivado, ModelSim, or Icarus).
+2. Launch your Verilog simulator (like, Vivado).
 3. Compile the source and testbench files 
 4. Run the simulation and monitor the `debug` output wire to verify instruction execution.
 
