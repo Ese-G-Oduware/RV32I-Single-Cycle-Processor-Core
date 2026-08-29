@@ -11,6 +11,8 @@ I built a single-cycle 32 Bit RISC-V processor from scratch in Verilog to deepen
 **Testing & Results**
 There is an example program that has been pre-compiled and added to the instruction memory of the project.
 ![Test Code](test_code/RISC_V_Ex_code.cpp)
+![Simulation](Simulation_Waveform_RISCV.png)
+
 
 Moreover, there is 100% accuracy across simulated testbenches. It correctly decodes RV32I base instructions, proving the CPU can manage dynamic memory addressing and resolve unpredictable branching logic without dropping instructions.
 
