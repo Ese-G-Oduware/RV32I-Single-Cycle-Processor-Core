@@ -11,6 +11,7 @@ I built a single-cycle 32 Bit RISC-V processor from scratch in Verilog to deepen
 **Testing & Results**
 There is an example program that has been pre-compiled and added to the instruction memory of the project.
 ![Test Code](test_code/RISC_V_Ex_code.cpp)
+This is the resulting waveform:
 ![Simulation](Simulation_Waveform_RISCV.png)
 
 
