@@ -2,7 +2,7 @@
 
 I built a single-cycle 32 Bit RISC-V processor from scratch in Verilog to deepen my understanding of computer architecture (specifically ISA's) and hardware design. This core successfully executes raw machine code directly on the hardware without any OS overhead.
 
-**Hardware6**
+**Hardware**
 * **The Core:** The implementation features a 32-bit processing core wrapped in a multi-stage pipelined datapath.
 * **ALU & Registers:** Designed a custom ALU to handle logical and shift operations that are then mapped unto a 32-bit register file.
 * **Control Flow:** Engineered a standalone branch unit that evaluates 7 unique conditional branch and jump scenarios to flawlessly redirect the PC.
